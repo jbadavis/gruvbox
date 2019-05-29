@@ -314,7 +314,7 @@ elseif has('terminal')
     \ s:aqua[0],
     \ s:fg1[0]
     \ ]
-
+endif
 " }}}
 " Overload Setting: {{{
 
